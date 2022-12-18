@@ -1,2 +1,2 @@
-# goit-markup-hw-02
+# homeowrk-2
  hm2
