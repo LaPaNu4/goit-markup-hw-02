@@ -1,8 +1,8 @@
-:root{
+:root {
   --title-color: #ffffff;
   --button-color-portfolio: #4d5ae5;
-  --body-color:#2e2f42;
-  --header-link-color:#2e2f42;
+  --body-color: #2e2f42;
+  --header-link-color: #2e2f42;
 }
 body {
   color: var(--body-color);
@@ -42,7 +42,7 @@ h1.hidden {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color:var(--header-link-color)
+  color: var(--header-link-color);
 }
 .header-link:hover,
 .header-link:focus {
@@ -68,7 +68,7 @@ h1.hidden {
   line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
-  color: var(--title-color)
+  color: var(--title-color);
 }
 .hero-btn {
   font-family: inherit;
@@ -103,7 +103,7 @@ h1.hidden {
   font-size: 16px;
   line-height: calc(24 / 16);
   letter-spacing: 0.04em;
-  color: var(--button-color-portfolio)
+  color: var(--button-color-portfolio);
   padding: 12px 24px;
   background: #f4f4fd;
   border: 1px solid #e7e9fc;
